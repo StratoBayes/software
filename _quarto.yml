@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "StratoBayes Workshop"
+  title: "StratoBayes"
   page-navigation: false
   sidebar:
     style: "docked"
