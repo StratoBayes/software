@@ -3,29 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "Welcome to StratoBayes"
-  description: "Automated stratigraphic correlation and age modelling"
+  title: "StratoBayes"
   page-navigation: false
-  site-url: "https://stratobayes.github.io"
-
   sidebar:
     style: "docked"
     search: true
     logo: "images/logo-2.png"
     contents:
-      - text: "Home"
-        href: index.qmd
       - text: "Software"
-        href: https://stratobayes.github.io/software
-      - text: "Website"
-        href: https://stratobayes.com
+        href: index.qmd
       - text: "Workshop"
         href: https://stratobayes.github.io/workshop
+      # - section: "Content"
+        # contents:
+        #   - day1.qmd
+        #   - day2.qmd
+        #   - day3.qmd
+
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: false
+    toc: true
 
 editor: visual
+

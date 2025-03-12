@@ -2,21 +2,41 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to StratoBayes",
+    "title": "StratoBayes",
     "section": "",
-    "text": "Software – Download and use the free StratoBayes software for non-commercial use\nWebsite - A broader look at StratoBayes and a survey on potential commercial use\nWorkshop – Materials from the 2024 StratoBayes Workshop",
+    "text": "Automated stratigraphic correlation and age modelling",
     "crumbs": [
-      "Home"
+      "Software"
     ]
   },
   {
-    "objectID": "index.html#explore",
-    "href": "index.html#explore",
-    "title": "Welcome to StratoBayes",
-    "section": "",
-    "text": "Software – Download and use the free StratoBayes software for non-commercial use\nWebsite - A broader look at StratoBayes and a survey on potential commercial use\nWorkshop – Materials from the 2024 StratoBayes Workshop",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "StratoBayes",
+    "section": "About",
+    "text": "About\nIntroduce the software",
     "crumbs": [
-      "Home"
+      "Software"
+    ]
+  },
+  {
+    "objectID": "index.html#installation",
+    "href": "index.html#installation",
+    "title": "StratoBayes",
+    "section": "Installation",
+    "text": "Installation\n\nWindows\n\n\nmacOS\n\n\nLinux/Unix\nR and Rstudio need to be installed laptops.",
+    "crumbs": [
+      "Software"
+    ]
+  },
+  {
+    "objectID": "index.html#using-stratobayes",
+    "href": "index.html#using-stratobayes",
+    "title": "StratoBayes",
+    "section": "Using StratoBayes",
+    "text": "Using StratoBayes",
+    "crumbs": [
+      "Software"
     ]
   }
 ]
