@@ -6,7 +6,7 @@ title: "StratoBayes"
 
 ## About
 
-Introduce the software
+Introduce the software.
 
 ## Installation
 
