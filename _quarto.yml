@@ -10,7 +10,10 @@ website:
     search: true
     logo: "images/logo-2.png"
     contents:
-      - index.qmd
+      - text: "Software"
+        href: index.qmd
+      - text: "Workshop"
+        href: https://stratobayes.github.io/workshop
       # - section: "Content"
         # contents:
         #   - day1.qmd
