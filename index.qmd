@@ -1,21 +1,12 @@
 ---
-title: "StratoBayes"
+  title: "Welcome to StratoBayes"
+  description: "Automated stratigraphic correlation and age modelling"
+  format: html
 ---
 
-**Automated stratigraphic correlation and age modelling**
 
-## About
+## 🔗 Explore
 
-Introduce the software
-
-## Installation
-
-### Windows
-
-### macOS
-
-### Linux/Unix
-
-[R](https://www.r-project.org/) and [Rstudio](https://posit.co/downloads/) need to be installed laptops.
-
-## Using StratoBayes
+-   [**Software**](https://stratobayes.github.io/software/) – Download and use the free StratoBayes software for non-commercial use
+-   [**Website**](https://stratobayes.com/) - A broader look at StratoBayes and a survey on potential commercial use
+-   [**Workshop**](https://stratobayes.github.io/workshop/) – Materials from the 2024 StratoBayes Workshop <!-- - **[GitHub](https://github.com/StratoBayes)** – Source code and development -->
