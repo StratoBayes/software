@@ -8,6 +8,8 @@ title: "StratoBayes"
 
 Introduce the software...
 
+...
+
 ## Installation
 
 ### Windows
