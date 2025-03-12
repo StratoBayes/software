@@ -16,7 +16,6 @@ Introduce the software
 
 ### Linux/Unix
 
-[R](https://www.r-project.org/) and [Rstudio](https://posit.co/downloads/) need to be installed  laptops.
-
+[R](https://www.r-project.org/) and [Rstudio](https://posit.co/downloads/) need to be installed laptops.
 
 ## Using StratoBayes
