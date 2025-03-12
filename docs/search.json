@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "StratoBayes",
+    "section": "",
+    "text": "Automated stratigraphic correlation and age modelling",
+    "crumbs": [
+      "Software"
+    ]
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "StratoBayes",
+    "section": "About",
+    "text": "About\nIntroduce the software…\ntrigger new build",
+    "crumbs": [
+      "Software"
+    ]
+  },
+  {
+    "objectID": "index.html#installation",
+    "href": "index.html#installation",
+    "title": "StratoBayes",
+    "section": "Installation",
+    "text": "Installation\n\nWindows\n\n\nmacOS\n\n\nLinux/Unix\nR and Rstudio need to be installed laptops.",
+    "crumbs": [
+      "Software"
+    ]
+  },
+  {
+    "objectID": "index.html#using-stratobayes",
+    "href": "index.html#using-stratobayes",
+    "title": "StratoBayes",
+    "section": "Using StratoBayes",
+    "text": "Using StratoBayes",
+    "crumbs": [
+      "Software"
+    ]
+  }
+]
