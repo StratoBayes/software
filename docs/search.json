@@ -6,7 +6,7 @@
     "section": "",
     "text": "Automated stratigraphic correlation and age modelling",
     "crumbs": [
-      "StratoBayes"
+      "Software"
     ]
   },
   {
@@ -16,7 +16,7 @@
     "section": "About",
     "text": "About\nIntroduce the software",
     "crumbs": [
-      "StratoBayes"
+      "Software"
     ]
   },
   {
@@ -26,7 +26,7 @@
     "section": "Installation",
     "text": "Installation\n\nWindows\n\n\nmacOS\n\n\nLinux/Unix\nR and Rstudio need to be installed laptops.",
     "crumbs": [
-      "StratoBayes"
+      "Software"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "section": "Using StratoBayes",
     "text": "Using StratoBayes",
     "crumbs": [
-      "StratoBayes"
+      "Software"
     ]
   }
 ]
