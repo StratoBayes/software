@@ -10,13 +10,13 @@ Introduce the software...
 
 ## Installation
 
-[R version 4.4](https://www.r-project.org/)  (4.4.0 - 4.4.3) and [Rstudio](https://posit.co/downloads/) need to be installed.
+[R version 4.4](https://www.r-project.org/) (4.4.0 - 4.4.3) and [Rstudio](https://posit.co/downloads/) need to be installed.
 
 Open Rstudio.
 
 In the console, type
 
-`install.packages("StratoBayes", repos = "https://stratobayes.github.io", type = "binary")`
+`install.packages("StratoBayes", repos = c("https://stratobayes.github.io", getOption("repos")), type = "binary", dependencies = TRUE)`
 
 ### Windows
 
